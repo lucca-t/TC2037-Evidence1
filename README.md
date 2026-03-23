@@ -19,7 +19,7 @@ The language chosen for this lexical analysis is based on Tolkien's Elvish vocab
 To systematically recognize patterns within this language, I chose to model it using a Deterministic Finite Automaton (DFA). While a Nondeterministic Finite Automaton (NFA) allows for null inputs and multiple state transitions for a single character, it inherently introduces ambiguity and often requires translation into a DFA for programmatic implementation (GeeksforGeeks, 2020).   
 
 Because our target language is a strictly defined, finite set of five words without a need for backtracking, a DFA is the most model. In a DFA, every input character corresponds to exactly one state transition
----
+
 ## Models of the Solution
 
 During the design phase, I developed two different iterations of the Deterministic Finite Automaton to analyze the structural requirements of the language. 
