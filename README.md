@@ -84,9 +84,6 @@ Note for execution: When running the program in the Prolog terminal, it is impor
 
 
 ## Tests
-To run the program, first open elvish.pl in a terminal. To open the file, you must run ["route/elvish.pl"].
-
-## 🧪 Tests
 
 To thoroughly verify the integrity of the lexical analyzer, a separate test suite was created in the `test_elvish.pl` file. This script automatically runs through both valid paths and intentional edge cases to ensure the automaton correctly accepts valid Elvish terms and rejects invalid strings, incomplete words, and mixed suffixes.
 
