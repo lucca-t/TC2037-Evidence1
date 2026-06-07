@@ -1,4 +1,4 @@
-# TC2037 Evidence: Implementation of Lexical Analysis
+# Evidence 1: Implementation of Lexical Analysis
 
 **Author:** Lucca Traslosheros Abascal (A01713944)  
 **Course:** TC2037 Implementation of Computational Methods  
